@@ -1,0 +1,4 @@
+cd.. go to parent directory
+cd\ go to the root directory
+D: (change disk) go to disk D   C: go to disk C (change disk)
+cd FolderName : go to the child directory
